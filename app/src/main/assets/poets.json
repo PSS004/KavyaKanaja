@@ -1,0 +1,194 @@
+[
+  {
+    "id": "poet-dvg",
+    "name": "D. V. Gundappa",
+    "kannadaName": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪ",
+    "bio": "Devanahalli Venkataramanayya Gundappa, popularly known as DVG, was a prominent Kannada philosopher and writer. His most famous work is Mankuthimmana Kagga.",
+    "achievements": ["Padma Bhushan", "Sahitya Akademi Award"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DVGundappa.jpg/220px-DVGundappa.jpg"
+  },
+  {
+    "id": "poet-kuvempu",
+    "name": "Kuvempu",
+    "kannadaName": "ಕುವೆಂಪು",
+    "bio": "Kuppali Venkatappa Puttappa, widely known as Kuvempu, is the first Kannada writer to receive the Jnanpith Award. He is a 'Rastra Kavi'.",
+    "achievements": ["Jnanpith Award", "Padma Vibhushan", "Rastra Kavi"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kuvempu_Photo.jpg/220px-Kuvempu_Photo.jpg"
+  },
+  {
+    "id": "poet-bendre",
+    "name": "D.R. Bendre",
+    "kannadaName": "ದ.ರಾ. ಬೇಂದ್ರೆ",
+    "bio": "Dattatreya Ramachandra Bendre is considered one of the greatest Kannada lyric poets of the 20th century. He was awarded the Jnanpith for 'Nakutanti'.",
+    "achievements": ["Jnanpith Award", "Padma Shri", "Sahitya Akademi"],
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Da_Ra_Bendre.jpg/220px-Da_Ra_Bendre.jpg"
+  },
+  {
+    "id": "poet-karanth",
+    "name": "Shivaram Karanth",
+    "kannadaName": "ಶಿವರಾಮ ಕಾರಂತ",
+    "bio": "A giant of Kannada literature, novelist, playwright, and environmentalist. Known as 'Walking Encyclopedia' of Karnataka.",
+    "achievements": ["Jnanpith Award", "Padma Bhushan", "Sahitya Akademi"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kota_Shivaram_Karanth.jpg/220px-Kota_Shivaram_Karanth.jpg"
+  },
+  {
+    "id": "poet-masti",
+    "name": "Masti Venkatesha Iyengar",
+    "kannadaName": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್",
+    "bio": "Popularly known as 'Maasthi Kannadada Aasti' (Masti is Kannada's treasure). He was a prolific short story writer.",
+    "achievements": ["Jnanpith Award", "Sahitya Akademi"],
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Masti_Venkatesha_Iyengar.jpg/220px-Masti_Venkatesha_Iyengar.jpg"
+  },
+  {
+    "id": "poet-gokak",
+    "name": "V. K. Gokak",
+    "kannadaName": "ವಿ. ಕೃ. ಗೋಕಾಕ",
+    "bio": "Vinayaka Krishna Gokak was a writer in the Kannada language and a scholar of English and Kannada literatures.",
+    "achievements": ["Jnanpith Award", "Padma Shri", "Sahitya Akademi"],
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/V._K._Gokak.jpg/220px-V._K._Gokak.jpg"
+  },
+  {
+    "id": "poet-ananthamurthy",
+    "name": "U. R. Ananthamurthy",
+    "kannadaName": "ಯು. ಆರ್. ಅನಂತಮೂರ್ತಿ",
+    "bio": "A contemporary writer and critic in the Kannada language. He is considered one of the pioneers of the Navya movement.",
+    "achievements": ["Jnanpith Award", "Padma Bhushan"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/U._R._Ananthamurthy.jpg/220px-U._R._Ananthamurthy.jpg"
+  },
+  {
+    "id": "poet-karnad",
+    "name": "Girish Karnad",
+    "kannadaName": "ಗಿರೀಶ್ ಕಾರ್ನಾಡ್",
+    "bio": "An Indian actor, film director, Kannada writer, playwright and a Rhodes Scholar, who predominantly worked in South Indian cinema and Bollywood.",
+    "achievements": ["Jnanpith Award", "Padma Shri", "Padma Bhushan"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Girish_Karnad_at_IFFI_2011.jpg/220px-Girish_Karnad_at_IFFI_2011.jpg"
+  },
+  {
+    "id": "poet-kambara",
+    "name": "Chandrashekhara Kambara",
+    "kannadaName": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ",
+    "bio": "A prominent poet, playwright, folklorist, and film director in Kannada language. He is the founder-vice-chancellor of Kannada University, Hampi.",
+    "achievements": ["Jnanpith Award", "Padma Bhushan", "Sahitya Akademi"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Chandrashekhara_Kambara.jpg/220px-Chandrashekhara_Kambara.jpg"
+  },
+  {
+    "id": "poet-basavanna",
+    "name": "Basavanna",
+    "kannadaName": "ಬಸವಣ್ಣ",
+    "bio": "A 12th-century philosopher, statesman, and social reformer. He was the founding saint of the Lingayat movement and a pioneer of Vachana Sahitya.",
+    "achievements": ["Social Reformer", "Vachana Pioneer"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Basava.jpg/220px-Basava.jpg"
+  },
+  {
+    "id": "poet-akka-mahadevi",
+    "name": "Akka Mahadevi",
+    "kannadaName": "ಅಕ್ಕ ಮಹಾದೇವಿ",
+    "bio": "One of the early female poets of the Kannada language and a prominent figure in the Veerashaiva Bhakti movement of the 12th century.",
+    "achievements": ["Vachana Poetess", "Leading Mystic"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Akka_Mahadevi.jpg"
+  },
+  {
+    "id": "poet-sarvajna",
+    "name": "Sarvajna",
+    "kannadaName": "ಸರ್ವಜ್ಞ",
+    "bio": "A 16th-century Kannada poet, philosopher and social reformer. He is famous for his three-line Tripadi poems that touch upon every aspect of life.",
+    "achievements": ["Tripadi Master", "Folklore Philosopher"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Sarvajna_Statue.jpg/220px-Sarvajna_Statue.jpg"
+  },
+  {
+    "id": "poet-kanaka-dasa",
+    "name": "Kanaka Dasa",
+    "kannadaName": "ಕನಕದಾಸ",
+    "bio": "A poet, philosopher, musician and social reformer from 16th century Karnataka. He was a Haridasa who composed Keerthanas in simple Kannada.",
+    "achievements": ["Haridasa", "Classical Musician"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kanaka_dasa.jpg/220px-Kanaka_dasa.jpg"
+  },
+  {
+    "id": "poet-purandara-dasa",
+    "name": "Purandara Dasa",
+    "kannadaName": "ಪುರಂದರದಾಸ",
+    "bio": "Known as the 'Pitamaha' of Carnatic music. He was a Haridasa who made significant contributions to music and Kannada literature.",
+    "achievements": ["Father of Carnatic Music", "Dasa Sahitya Legend"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Purandara_dasa.jpg/220px-Purandara_dasa.jpg"
+  },
+  {
+    "id": "poet-allama-prabhu",
+    "name": "Allama Prabhu",
+    "kannadaName": "ಅಲ್ಲಮ ಪ್ರಭು",
+    "bio": "A 12th-century mystic and Vachana poet. He was the president of Anubhava Mantapa, the academy of mystics founded by Basavanna.",
+    "achievements": ["Chief of Anubhava Mantapa", "Metaphysical Poet"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Basava.jpg/220px-Basava.jpg"
+  },
+  {
+    "id": "poet-bm-sri",
+    "name": "B.M. Srikantaiah",
+    "kannadaName": "ಬಿ.ಎಂ. ಶ್ರೀಕಂಠಯ್ಯ",
+    "bio": "Known as 'Kannadada Kanva', he spearheaded the 'Navodaya' movement in Kannada literature through his translations and original works.",
+    "achievements": ["Navodaya Pioneer", "Kannadada Kanva"],
+    "image": "https://upload.wikimedia.org/wikipedia/kn/thumb/3/30/B._M._Srikantaiah.jpg/200px-B._M._Srikantaiah.jpg"
+  },
+  {
+    "id": "poet-gs-shivarudrappa",
+    "name": "G.S. Shivarudrappa",
+    "kannadaName": "ಜಿ.ಎಸ್. ಶಿವರುದ್ರಪ್ಪ",
+    "bio": "A poet, critic and academic who was the third writer to be honored as 'Rastra Kavi' by the Government of Karnataka.",
+    "achievements": ["Rastra Kavi", "Sahitya Akademi Award"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/G_S_Shivarudrappa_at_a_Poetry_Recital.JPG/220px-G_S_Shivarudrappa_at_a_Poetry_Recital.JPG"
+  },
+  {
+    "id": "poet-ks-narasimhaswamy",
+    "name": "K.S. Narasimhaswamy",
+    "kannadaName": "ಕೆ.ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿ",
+    "bio": "Famous as the poet of love and household life, his collection 'Mysore Mallige' is one of the most successful books in Kannada history.",
+    "achievements": ["Sahitya Akademi Award", "Romantic Poet"],
+    "image": "https://upload.wikimedia.org/wikipedia/kn/3/36/Ks_narasimhaswamy.jpg"
+  },
+  {
+    "id": "poet-lankesh",
+    "name": "P. Lankesh",
+    "kannadaName": "ಪಿ. ಲಂಕೇಶ್",
+    "bio": "An editor, filmmaker, and writer. He was a major voice in the 'Modernist' (Navya) and 'Dalit/Protest' movements in Kannada.",
+    "achievements": ["National Film Award", "Sahitya Akademi Award"],
+    "image": "https://upload.wikimedia.org/wikipedia/kn/thumb/3/39/P_Lankesh_Photo.jpg/200px-P_Lankesh_Photo.jpg"
+  },
+  {
+    "id": "poet-adiga",
+    "name": "Gopalakrishna Adiga",
+    "kannadaName": "ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ",
+    "bio": "Considered the pioneer of the 'Navya' (Modernist) movement in Kannada poetry, his works introduced new metaphors and styles.",
+    "achievements": ["Navya Pioneer", "Sahitya Akademi Award"],
+    "image": "https://upload.wikimedia.org/wikipedia/kn/thumb/4/4b/Gopalakrishna_adiga.jpg/200px-Gopalakrishna_adiga.jpg"
+  },
+  {
+    "id": "poet-siddalingaiah",
+    "name": "Siddalingaiah",
+    "kannadaName": "ಸಿದ್ದಲಿಂಗಯ್ಯ",
+    "bio": "One of Karnataka's foremost Dalit poets. His poetry was a catalyst for the Dalit-Bandaya movement, focusing on social justice.",
+    "achievements": ["Dalit Voice", "Pampa Award"],
+    "image": "https://upload.wikimedia.org/wikipedia/kn/thumb/3/36/Siddalingaiah_Photo.jpg/200px-Siddalingaiah_Photo.jpg"
+  },
+  {
+    "id": "poet-govinda-pai",
+    "name": "M. Govinda Pai",
+    "kannadaName": "ಎಂ. ಗೋವಿಂದ ಪೈ",
+    "bio": "The first poet to be honored with the 'Rastra Kavi' title. He was a polyglot, historian, and a prominent poet of the Navodaya period.",
+    "achievements": ["First Rastra Kavi", "Linguist Researcher"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/M_Govinda_Pai.jpg/220px-M_Govinda_Pai.jpg"
+  },
+  {
+    "id": "poet-kanavi",
+    "name": "Chennavira Kanavi",
+    "kannadaName": "ಚೆನ್ನವೀರ ಕಣವಿ",
+    "bio": "Often described as the 'Poet of Friendships' (Suneeta), his poetry is known for its mildness, depth, and humanistic touch.",
+    "achievements": ["Sahitya Akademi Award", "Pampa Award"],
+    "image": "https://upload.wikimedia.org/wikipedia/kn/thumb/4/45/Chennavira_Kanavi.jpg/200px-Chennavira_Kanavi.jpg"
+  },
+  {
+    "id": "poet-pampa",
+    "name": "Adikavi Pampa",
+    "kannadaName": "ಆದಿಕವಿ ಪಂಪ",
+    "bio": "The earliest known Kannada poet, whose works 'Vikramarjuna Vijaya' and 'Adipurana' established the groundwork for Kannada literature in the 10th century.",
+    "achievements": ["Adikavi (First Poet)", "Father of Kannada Literature"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/DVGundappa.jpg/220px-DVGundappa.jpg"
+  }
+]

@@ -1,0 +1,772 @@
+[
+  {
+    "id": "poem-001",
+    "title": "Mankuthimmana Kagga (Select Verse)",
+    "kannadaTitle": "ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ",
+    "poet": "D. V. Gundappa",
+    "kannadaPoet": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪ (ಡಿವಿಜಿ)",
+    "verse": "ಹುಲ್ಲಾಗು ಬೆಟ್ಟದಡಿ, ಮನೆಗೆ ಮಲ್ಲಿಗೆಯಾಗು\nಕಲ್ಲಾಗು ಕಷ್ಟಗಳ ಮಳೆಯ ವಿಧಿ ಸುರಿಯೆ\nಬೆಲ್ಲ ಸಕ್ಕರೆಯಾಗು ದೀನದುರ್ಬಲರಿಂಗೆ\nಎಲ್ಲರೊಳಗೊಂದಾಗು ಮಂಕುತಿಮ್ಮ",
+    
+    "meanings": {
+      "ಹುಲ್ಲಾಗು": "Be humble like grass",
+      "ಮಲ್ಲಿಗೆಯಾಗು": "Spread fragrance like Jasmine",
+      "ಕಲ್ಲಾಗು": "Be resilient like a stone",
+      "ಬೆಲ್ಲ": "Jaggery (sweetness)",
+      "ಮಂಕುತಿಮ್ಮ": "DVG's persona"
+    },
+    "description": "A profound verse on humility and resilience.",
+    "category": "Philosophy"
+  },
+  {
+    "id": "poem-002",
+    "title": "Baarisu Kannada Dindimava",
+    "kannadaTitle": "ಬಾರಿಸು ಕನ್ನಡ ಡಿಂಡಿಮವ",
+    "poet": "Kuvempu",
+    "kannadaPoet": "ಕುವೆಂಪು",
+    "verse": "ಬಾರಿಸು ಕನ್ನಡ ಡಿಂಡಿಮವ\nಓ ಕರ್ನಾಟಕ ಹೃದಯ ಶಿವ\nಸತ್ತಂತಿಹರನು ಬಡಿದೆಬ್ಬಿಸು\nಕಚಗುಳಿಯಿಟ್ಟು ಪಿಸುಮಾತನು ಬಿಡು",
+    
+    "meanings": {
+      "ಡಿಂಡಿಮವ": "The drum",
+      "ಬಡಿದೆಬ್ಬಿಸು": "Awaken",
+      "ಪಿಸುಮಾತನು": "Whispers"
+    },
+    "description": "A call to cultural awakening.",
+    "category": "Patriotic"
+  },
+  {
+    "id": "poem-003",
+    "title": "Ullavaru Shivalaya Maadiiru",
+    "kannadaTitle": "ಉಳ್ಳವರು ಶಿವಾಲಯ ಮಾಡುವರು",
+    "poet": "Basavanna",
+    "kannadaPoet": "ಬಸವಣ್ಣ",
+    "verse": "ಉಳ್ಳವರು ಶಿವಾಲಯ ಮಾಡುವರು\nನಾನೇನ ಮಾಡುವೆ ಬಡವನಯ್ಯಾ\nಎನ್ನ ಕಾಲೇ ಕಂಬ, ದೇಹವೇ ದೇಗುಲ\nಶಿರವೇ ಹೊನ್ನ ಕಳಸವಯ್ಯಾ",
+    "meanings": {
+      "ಶಿವಾಲಯ": "Temple of Shiva",
+      "ಕಂಬ": "Pillar",
+      "ದೇಗುಲ": "Temple",
+      "ಕಳಸ": "Pinnacle"
+    },
+    "description": "Devotion doesn't need wealth.",
+    "category": "Vachana Sahitya"
+  },
+  {
+    "id": "poem-004",
+    "title": "Betta Mele Mane Maadi",
+    "kannadaTitle": "ಬೆಟ್ಟದ ಮೇಲೊಂದು ಮನೆಯ ಮಾಡಿ",
+    "poet": "Akka Mahadevi",
+    "kannadaPoet": "ಅಕ್ಕ ಮಹಾದೇವಿ",
+    "verse": "ಬೆಟ್ಟದ ಮೇಲೊಂದು ಮನೆಯ ಮಾಡಿ\nಮೃಗಗಳಿಗೆ ಅಂಜಿದಡೆಂತಯ್ಯಾ?\nಸಮುದ್ರದ ತಡಿಯಲೊಂದು ಮನೆಯ ಮಾಡಿ\nನೊರೆ ತೆರೆಗಳಿಗೆ ಅಂಜಿದಡೆಂತಯ್ಯಾ?",
+    "meanings": {
+      "ಅಂಜಿದಡೆ": "If you fear",
+      "ತಡಿಯಲಿ": "Shore",
+      "ತೆರೆ": "Waves"
+    },
+    "description": "Accepting life's challenges.",
+    "category": "Vachana Sahitya"
+  },
+  {
+    "id": "poem-005",
+    "title": "Kurudu Kanchana",
+    "kannadaTitle": "ಕುರುಡು ಕಾಂಚಾಣ",
+    "poet": "D.R. Bendre",
+    "kannadaPoet": "ದ.ರಾ. ಬೇಂದ್ರೆ",
+    "verse": "ಕುರುಡು ಕಾಂಚಾಣ ಕುಣಿಯತಲಿತ್ತು\nಕಾಲಿಗಿಬಿದ್ದವರ ತುಳಿಯತಲಿತ್ತು\nಕಣ್ಣಿದ್ದವರಿಗೆ ಕಾಣದ ಹಾಗೆ\nಮಣ್ಣಾದವರನ್ನು ಎಬ್ಬಿಸದ ಹಾಗೆ",
+    "meanings": {
+      "ಕಾಂಚಾಣ": "Wealth/Money",
+      "ಕುರುಡು": "Blind",
+      "ತುಳಿಯತಲಿತ್ತು": "Trampling"
+    },
+    "description": "On the blinding power of greed.",
+    "category": "Modern"
+  },
+  {
+    "id": "poem-006",
+    "title": "Hachhevu Kannadada Deepa",
+    "kannadaTitle": "ಹಚ್ಚೇವು ಕನ್ನಡದ ದೀಪ",
+    "poet": "D.S. Karki",
+    "kannadaPoet": "ಡಿ.ಎಸ್. ಕರ್ಕಿ",
+    "verse": "ಹಚ್ಚೇವು ಕನ್ನಡದ ದೀಪ\nಕರುನಾಡ ದೀಪ ಸಿರಿಗನ್ನಡದ ದೀಪ\nದೀಪದಿಂದ ದೀಪವ ಹಚ್ಚಿ\nಕನ್ನಡದ ಜ್ಯೋತಿಯ ಬೆಳಗೋಣ",
+    "meanings": {
+      "ಹಚ್ಚೇವು": "We shall light",
+      "ಜ್ಯೋತಿಯ": "Light/Glow",
+      "ಬೆಳಗೋಣ": "Let us brighten"
+    },
+    "description": "lighting the lamp of Kannada language and culture.",
+    "category": "Patriotic"
+  },
+  {
+    "id": "poem-007",
+    "title": "Enna Kayada Siriya",
+    "kannadaTitle": "ಎನ್ನ ಕಾಯದ ಸಿರಿಯ",
+    "poet": "Allama Prabhu",
+    "kannadaPoet": "ಅಲ್ಲಮ ಪ್ರಭು",
+    "verse": "ಎನ್ನ ಕಾಯದ ಸಿರಿಯ ನೀವು ನೋಡಣ್ಣ\nಮನವೆಂಬ ಕುದುರೆಯನೇರಿ\nಬೆಟ್ಟದ ಮೇಲಣ ಕೆಂಬಣ್ಣದ ಕಾಂತಿ\nಅಜ್ಞಾನದ ಕಂದಕವ ತುಂಬಿತ್ತು",
+    "meanings": {
+      "ಕಾಯದ": "Body",
+      "ಅಜ್ಞಾನದ": "Ignorance",
+      "ಕಾಂತಿ": "Radiance"
+    },
+    "description": "A metaphysical vachana on internal light.",
+    "category": "Vachana Sahitya"
+  },
+  {
+    "id": "poem-008",
+    "title": "Lokada Donka Neeveke ತಿದ್ದುವಿರಿ",
+    "kannadaTitle": "ಲೋಕದ ಡೊಂಕ ನೀವೇಕೆ ತಿದ್ದುವಿರಿ",
+    "poet": "Basavanna",
+    "kannadaPoet": "ಬಸವಣ್ಣ",
+    "verse": "ಲೋಕದ ಡೊಂಕ ನೀವೇಕೆ ತಿದ್ದುವಿರಿ?\nನಿಮ್ಮ ನಿಮ್ಮ ತನುವ ಸಂತೈಸಿಕೊಳ್ಳಿ\nನಿಮ್ಮ ನಿಮ್ಮ ಮನವ ಸಂತೈಸಿಕೊಳ್ಳಿ\nನೆರೆಮನೆಯ ದುಃಖಕ್ಕೆ ಅಳುವವರ ಮೆಚ್ಚ ನಮ್ಮ ಕೂಡಲಸಂಗಮದೇವ",
+    "meanings": {
+      "ಡೊಂಕ": "Crookedness",
+      "ತನುವ": "Body",
+      "ಸಂತೈಸಿಕೊಳ್ಳಿ": "Pacify/Correct"
+    },
+    "description": "Focus on self-correction before judging the world.",
+    "category": "Vachana Sahitya"
+  },
+  {
+    "id": "poem-009",
+    "title": "Donku Namada Nakka",
+    "kannadaTitle": "ಡೊಂಕು ನಾಮದ ನಕ್ಕ",
+    "poet": "Kanaka Dasa",
+    "kannadaPoet": "ಕನಕದಾಸ",
+    "verse": "ಕುಲ ಕುಲವೆಂದು ಹೊಡೆದಾಡದಿರಿ\nನಿಮ್ಮ ಕುಲದ ನೆಲೆ ಏನಾದರ ಬಲ್ಲಿರಾ?\nಆತ್ಮ ಯಾವ ಕುಲಕ್ಕೆ ಸೇರಿದೆ?\nಜೀವ ಯಾವ ಕುಲಕ್ಕೆ ಸೇರಿದೆ?",
+    "meanings": {
+      "ಕುಲ": "Caste/Lineage",
+      "ನೆಲೆ": "Foundation",
+      "ಬಲ್ಲಿರಾ": "Do you know?"
+    },
+    "description": "Questioning social hierarchies and casteism.",
+    "category": "Dasa Sahitya"
+  },
+  {
+    "id": "poem-010",
+    "title": "Aadaddella Olite Aayitu",
+    "kannadaTitle": "ಆದದ್ದೆಲ್ಲ ಒಳಿತೇ ಆಯಿತು",
+    "poet": "Purandara Dasa",
+    "kannadaPoet": "ಪುರಂದರದಾಸ",
+    "verse": "ಆದದ್ದೆಲ್ಲ ಒಳಿತೇ ಆಯಿತು\nನಮ್ಮ ಶ್ರೀಧರನ ಸೇವೆಗೆ ಸಾಧನವಾಯಿತು\nಹೆಂಡತಿ ಮಕ್ಕಳು ಹೋದದ್ದಕ್ಕೆ ಚಿಂತೆಯಿಲ್ಲ\nಶ್ರೀಹರಿಯ ಧ್ಯಾನಕ್ಕೆ ಅವಕಾಶವಾಯಿತು",
+    "meanings": {
+      "ಒಳಿತೇ": "For the good",
+      "ಸಾಧನವಾಯಿತು": "Became a means",
+      "ಧ್ಯಾನಕ್ಕೆ": "For meditation"
+    },
+    "description": "Expressing gratitude and acceptance of divine will.",
+    "category": "Dasa Sahitya"
+  },
+  {
+    "id": "poem-011",
+    "title": "Namma Naadu",
+    "kannadaTitle": "ನಮ್ಮ ನಾಡು",
+    "poet": "B.M. Srikantaiah",
+    "kannadaPoet": "ಬಿ.ಎಂ. ಶ್ರೀಕಂಠಯ್ಯ",
+    "verse": "ಕರುನಾಡು ತಾಯಿ ಕೆಚ್ಚೆದೆಯ ತಾಯಿ\nಮಲೆನಾಡ ಮಡಿಲಲಿ ಮಲಗಿರುವ ತಾಯಿ\nಕಾವೇರಿ ಕೃಷ್ಣೆಯರ ಹರಸುವ ತಾಯಿ\nಹೆಮ್ಮೆಯ ಕನ್ನಡಿಗರ ಒಲವಿನ ತಾಯಿ",
+    "meanings": {
+      "ಕೆಚ್ಚೆದೆಯ": "Brave/Courageous",
+      "ಮಡಿಲಲಿ": "In the lap",
+      "ಒಲವಿನ": "Affectionate"
+    },
+    "description": "A tribute to the geography and spirit of Karnataka.",
+    "category": "Patriotic"
+  },
+  {
+    "id": "poem-012",
+    "title": "Yaava Mohana Murali",
+    "kannadaTitle": "ಯಾವ ಮೋಹನ ಮುರಳಿ ಕರೆಯಿತು",
+    "poet": "Gopalakrishna Adiga",
+    "kannadaPoet": "ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ",
+    "verse": "ಯಾವ ಮೋಹನ ಮುರಳಿ ಕರೆಯಿತು\nದೂರ ತೀರಕ್ಕೆ ನಿನ್ನನು\nಯಾವ ಬೃಂದಾವನವು ಸೆಳೆಯಿತು\nನಿನ್ನ ಮಂದ ಮಾರುತನು",
+    "meanings": {
+      "ಮುರಳಿ": "Flute",
+      "ದೂರ ತೀರಕ್ಕೆ": "To far shores",
+      "ಮಾರುತನು": "Wind/Breeze"
+    },
+    "description": "A beautiful lyrical poem on spiritual longing.",
+    "category": "Navya"
+  },
+  {
+    "id": "poem-013",
+    "title": "Bhavasangama",
+    "kannadaTitle": "ಭಾವಸಂಗಮ",
+    "poet": "G.S. Shivarudrappa",
+    "kannadaPoet": "ಜಿ.ಎಸ್. ಶಿವರುದ್ರಪ್ಪ",
+    "verse": "ವೇದಗಳ ಸಾರವನು ಅರಿತವ ನೀನು\nವಿಶ್ವಪಥದಲಿ ನಡೆದವ ನೀನು\nಪ್ರೀತಿಯ ಹಣತೆಯ ಹಚ್ಚುವೆವು ನಾವು\nಕತ್ತಲ ದಾರಿಯ ನೀಗುವೆವು ನಾವು",
+    "meanings": {
+      "ಸಾರವನು": "Essence",
+      "ವಿಶ್ವಪಥದಲಿ": "On the world path",
+      "ಹಣತೆಯ": "Small clay lamp"
+    },
+    "description": "Spreading the light of love and knowledge.",
+    "category": "Philosophy"
+  },
+  {
+    "id": "poem-014",
+    "title": "Honneya Kayuva",
+    "kannadaTitle": "ಹೊನ್ನೆಯ ಕಾಯುವ",
+    "poet": "Sarvajna",
+    "kannadaPoet": "ಸರ್ವಜ್ಞ",
+    "verse": "ಅನ್ನವಿಕ್ಕುವವನು ತನ್ನವನು\nಕಷ್ಟದಲಿ ಕಾಣುವವನು ದೇವರವನು\nಜ್ಞಾನವನೀಯುವವನು ಗುರುವನು\nಇವರನ್ನು ಮರೆಯದಿರು ಸರ್ವಜ್ಞ",
+    "meanings": {
+      "ಅನ್ನವಿಕ್ಕುವವನು": "One who provides food",
+      "ಜ್ಞಾನವನೀಯುವವನು": "One who gives knowledge",
+      "ಮರೆಯದಿರು": "Do not forget"
+    },
+    "description": "A Tripadi on honoring those who help us grow.",
+    "category": "Tripadi"
+  },
+  {
+    "id": "poem-015",
+    "title": "Avva",
+    "kannadaTitle": "ಅವ್ವ",
+    "poet": "P. Lankesh",
+    "kannadaPoet": "ಪಿ. ಲಂಕೇಶ್",
+    "verse": "ಅವ್ವ ಇಲ್ಲದ ಮನೆ ನೂರು ಬಾಗಿಲಿದ್ದರೇನು?\nಬರಿದಾದ ಬಾನಿನಲಿ ಬೆಳಕಿಲ್ಲದ ಹಾಗೆ\nಮಣ್ಣಿನ ಘಮಲನ್ನು ಹೊತ್ತವಳು ಅವಳು\nಕಣ್ಣೀರಿನ ಕಡಲಲ್ಲಿ ಮುಳುಗಿದವಳು ಅವಳು",
+    "meanings": {
+      "ಬರಿದಾದ": "Empty",
+      "ಘಮಲನ್ನು": "Fragrance",
+      "ಕಡಲಲ್ಲಿ": "In the ocean"
+    },
+    "description": "A modern look at the loss and love of a mother.",
+    "category": "Modern"
+  },
+  {
+    "id": "poem-016",
+    "title": "Rayaru Bandaru",
+    "kannadaTitle": "ರಾಯರು ಬಂದರು ಮಾವನ ಮನೆಗೆ",
+    "poet": "K.S. Narasimhaswamy",
+    "kannadaPoet": "ಕೆ.ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿ",
+    "verse": "ರಾಯರು ಬಂದರು ಮಾವನ ಮನೆಗೆ\nಮೈಸೂರು ಮಲ್ಲಿಗೆಯ ಮುಡಿದುಕೊಂಡು\nಪ್ರೇಮದ ಪಿಸುಮಾತುಗಳನ್ನು ಹೇಳುತ್ತಾ\nಮನದ ಮನೆಯನು ಗೆದ್ದುಕೊಂಡು",
+    "meanings": {
+      "ರಾಯರು": "Gentleman/Lord",
+      "ಮುಡಿದುಕೊಂಡು": "Wearing (flowers)",
+      "ಪಿಸುಮಾತುಗಳನ್ನು": "Whispered words"
+    },
+    "description": "A classic romantic poem from 'Mysore Mallige'.",
+    "category": "Romantic"
+  },
+  {
+    "id": "poem-017",
+    "title": "Siri Kannada Gelge",
+    "kannadaTitle": "ಸಿರಿಗನ್ನಡಂ ಗೆಲ್ಗೆ",
+    "poet": "B.M. Srikantaiah",
+    "kannadaPoet": "ಬಿ.ಎಂ. ಶ್ರೀಕಂಠಯ್ಯ",
+    "verse": "ಸಿರಿಗನ್ನಡಂ ಗೆಲ್ಗೆ ಸಿರಿಗನ್ನಡಂ ಬಾಳ್ಗೆ\nಕನ್ನಡದ ನುಡಿಯನ್ನು ಗುಡಿಯಾಗಿ ಮಾಡೋಣ\nಹೃದಯದ ಭಾಷೆಯನು ಪ್ರಾಣವಾಗಿ ತರೋಣ\nಐಕ್ಯತೆಯ ಮಂತ್ರವನು ಹಾಡೋಣ",
+    "meanings": {
+      "ಗೆಲ್ಗೆ": "Victory",
+      "ಬಾಳ್ಗೆ": "Long live",
+      "ಐಕ್ಯತೆಯ": "Unity"
+    },
+    "description": "A slogan for the growth and victory of Kannada.",
+    "category": "Patriotic"
+  },
+  {
+    "id": "poem-018",
+    "title": "Baratana",
+    "kannadaTitle": "ಬಡತನ",
+    "poet": "Siddalingaiah",
+    "kannadaPoet": "ಸಿದ್ದಲಿಂಗಯ್ಯ",
+    "verse": "ನನ್ನ ಜನರು ಬೆವರಿನಲಿ ಮೀಯುವವರು\nಹಸಿದ ಹೊಟ್ಟೆಯಲಿ ಕನಸು ಕಾಣುವವರು\nಬಡತನದ ಬೇಗೆಯಲಿ ಬೆಂದವರು ಅವರು\nಹೋರಾಟದ ದಾರಿಯಲಿ ನಡೆದವರು ಅವರು",
+    "meanings": {
+      "ಬೆವರಿನಲಿ": "In sweat",
+      "ಬೇಗೆಯಲಿ": "In the heat",
+      "ಹೋರಾಟದ": "Struggle/Revolution"
+    },
+    "description": "Dalit poetry focusing on social realities and struggles.",
+    "category": "Dalit Literature"
+  },
+  {
+    "id": "poem-019",
+    "title": "Huliya Haadu",
+    "kannadaTitle": "ಹುಲಿಯ ಹಾಡು",
+    "poet": "Kuvempu",
+    "kannadaPoet": "ಕುವೆಂಪು",
+    "verse": "ಕಾಡಿನಾಳದಲಿ ಹುಲಿಯು ಗರ್ಜಿಸಿತು\nಪ್ರಕೃತಿಯ ಸೌಂದರ್ಯವನು ಸಾರಿತು\nಮನುಷ್ಯನ ಆಸೆಗೆ ಮಿತಿಯಿರಲಿ ಎಂದಿತು\nಜೀವಸಂಕುಲವನು ಉಳಿಸಿರಿ ಎಂದಿತು",
+    "meanings": {
+      "ಗರ್ಜಿಸಿತು": "Roared",
+      "ಸಾರಿತು": "Proclaimed",
+      "ಸಂಕುಲವನು": "Species/Group"
+    },
+    "description": "Nature preservation and environmental awareness.",
+    "category": "Nature"
+  },
+  {
+    "id": "poem-020",
+    "title": "Golokada Hejje",
+    "kannadaTitle": "ಗೋಲೋಕದ ಹೆಜ್ಜೆ",
+    "poet": "M. Govinda Pai",
+    "kannadaPoet": "ಎಂ. ಗೋವಿಂದ ಪೈ",
+    "verse": "ಗತಕಾಲದ ವೈಭವವ ನೆನೆಯುವೆವು ನಾವು\nನಮ್ಮ ಪೂರ್ವಜರ ಆದರ್ಶವ ಹಿಡಿಯುವೆವು ನಾವು\nಸತ್ಯದ ಹಾದಿಯಲ್ಲಿ ಬಿಡದೆ ಸಾಗುವೆವು ನಾವು\nಕನ್ನಡ ತಾಯಿಯ ಹೆಸರನು ಎತ್ತಿ ಹಿಡಿವೆವು ನಾವು",
+    "meanings": {
+      "ವೈಭವವ": "Grandeur",
+      "ಆದರ್ಶವ": "Ideals",
+      "ಪೂರ್ವಜರ": "Ancestors"
+    },
+    "description": "Reflecting on history to build a better future.",
+    "category": "Historical"
+  },
+  {
+    "id": "poem-021",
+    "title": "Vachana - Akka",
+    "kannadaTitle": "ಲೋಕದ ಸೀಮೆಯ ಮೀರಿ",
+    "poet": "Akka Mahadevi",
+    "kannadaPoet": "ಅಕ್ಕ ಮಹಾದೇವಿ",
+    "verse": "ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನನ ವರಿಸಿ ನಾ ಪಾರಾದೆ\nಲೌಕಿಕದ ನಂಟನ್ನು ಕಳೆದುಕೊಂಡು ನಾ ಸಾರಿದೆ\nಶರೀರದ ಬಂಧನವ ಹರಿದು ನಾ ಓಡಿದೆ\nಪರಮಾತ್ಮನ ಬೆಳಕಲಿ ನಾ ಲೀನವಾದೆ",
+    "meanings": {
+      "ವರಿಸಿ": "Accepting/Marrying",
+      "ಲೌಕಿಕದ": "Worldly",
+      "ಲೀನವಾದೆ": "Merged"
+    },
+    "description": "On spiritual liberation and union with the divine.",
+    "category": "Vachana Sahitya"
+  },
+  {
+    "id": "poem-022",
+    "title": "Belaku",
+    "kannadaTitle": "ಬೆಳಕು",
+    "poet": "G.S. Shivarudrappa",
+    "kannadaPoet": "ಜಿ.ಎಸ್. ಶಿವರುದ್ರಪ್ಪ",
+    "verse": "ಎದೆಯ ಹಣತೆಯನ್ನು ಬೆಳಗಿಸು ನೀನು\nಕತ್ತಲ ಲೋಕಕ್ಕೆ ಬೆಳಕಾಗು ನೀನು\nಸಣ್ಣದೊಂದು ಮೊಗ್ಗಿನಲಿ ವಿಶ್ವರೂಪವನ್ನು ನೋಡು\nನೋವಿನ ನಗುಮುಖವ ಧರಿಸು ನೀನು",
+    "meanings": {
+      "ಹಣತೆಯನ್ನು": "Lamp",
+      "ವಿಶ್ವರೂಪವನ್ನು": "Universal form",
+      "ಧರಿಸು": "Wear/Adorn"
+    },
+    "description": "Finding positivity and cosmic connections in small things.",
+    "category": "Philosophy"
+  },
+  {
+    "id": "poem-023",
+    "title": "Bendre - Jogi",
+    "kannadaTitle": "ಜೋಗಿ",
+    "poet": "D.R. Bendre",
+    "kannadaPoet": "ದ.ರಾ. ಬೇಂದ್ರೆ",
+    "verse": "ಜೋಗಿ ಬಂದನೋ ಜೋಗಿ ಬಂದನೋ\nಜಗವನ್ನೆಲ್ಲ ಮರತು ಮಂತ್ರವ ಹಾಕಿದನೋ\nಕಣ್ಣಿನ ಕಾಂತಿಯು ಬೆರಗನು ತಂದಿತೋ\nಜೀವದ ತಂತಿಯು ಮಿಡಿತವ ಕಂಡಿತೋ",
+    "meanings": {
+      "ಜೋಗಿ": "Ascetic/Yogi",
+      "ಕಾಂತಿಯು": "Radiance",
+      "ಮಿಡಿತವ": "Throb/Beat"
+    },
+    "description": "Capturing the mystical presence of a wandering ascetic.",
+    "category": "Modern"
+  },
+  {
+    "id": "poem-024",
+    "title": "Mannina Maga",
+    "kannadaTitle": "ಮಣ್ಣಿನ ಮಗ",
+    "poet": "Kuvempu",
+    "kannadaPoet": "ಕುವೆಂಪು",
+    "verse": "ನೇಗಿಲ ಹಿಡಿದ ಹೊಲದಲಿ ಹಾಡುವ\nರೈತನೇ ಆ ನಾಡಿನ ಉಸಿರಯ್ಯಾ\nಬೆವರನ್ನು ಸುರಿಸಿ ಅನ್ನವ ನೀಡುವ\nಮಾನವನೇ ಆ ದೇವನ ನೆರಳಯ್ಯಾ",
+    "meanings": {
+      "ನೇಗಿಲ": "Plough",
+      "ಉಸಿರಯ್ಯಾ": "Breath",
+      "ನೆರಳಯ್ಯಾ": "Shadow"
+    },
+    "description": "Honoring the farmer as the pillar of society.",
+    "category": "Nature"
+  },
+  {
+    "id": "poem-025",
+    "title": "Sarvajna - Vidye",
+    "kannadaTitle": "ವಿದ್ಯೆಯುಳ್ಳವನ ಮುಖ",
+    "poet": "Sarvajna",
+    "kannadaPoet": "ಸರ್ವಜ್ಞ",
+    "verse": "ವಿದ್ಯೆಯುಳ್ಳವನ ಮುಖವು ಮುದ್ದಾದ ಕನ್ನಡಿಯಂತೆ\nವಿದ್ಯೆಯಿಲ್ಲದ ಮನುಜನ ಮುಖವು ಬೆಂಕಿಯಂತೆ\nತಿಳಿವಳಿಕೆಯು ದಾರಿಯ ತೋರಿಸುವ ದೀಪ ಸರ್ವಜ್ಞ",
+    "meanings": {
+      "ತಿಳಿವಳಿಕೆಯು": "Understanding",
+      "ಮುದ್ದಾದ": "Cute/Lovely",
+      "ಕನ್ನಡಿಯಂತೆ": "Like a mirror"
+    },
+    "description": "The transformative and beautifying power of education.",
+    "category": "Tripadi"
+  },
+  {
+    "id": "poem-026",
+    "title": "Kannada Enutiro",
+    "kannadaTitle": "ಕನ್ನಡ ಎನೆ ಕುಣಿದಾಡುವುದು ನನ್ನೆದೆ",
+    "poet": "Kuvempu",
+    "kannadaPoet": "ಕುವೆಂಪು",
+    "verse": "ಕನ್ನಡ ಎನೆ ಕುಣಿದಾಡುವುದು ನನ್ನೆದೆ\nಕನ್ನಡ ಎನೆ ಕಿವಿ ನಿಮಿರುವದು\nಕಾಮನ ಬಿಲ್ಲನು ಕಟ್ಟುವ ಆಸೆಯು\nಚಿನ್ನದ ನಾಡೊಳು ಹುಟ್ಟುವ ಆಸೆಯು",
+    "meanings": {
+      "ನನ್ನೆದೆ": "My heart",
+      "ನಿಮಿರುವದು": "Perks up",
+      "ಕಾಮನ ಬಿಲ್ಲನು": "Rainbow"
+    },
+    "description": "Deep love and pride for the Kannada language.",
+    "category": "Patriotic"
+  },
+  {
+    "id": "poem-027",
+    "title": "Vachana - Basavanna",
+    "kannadaTitle": "ಸ್ಥಾವರಕ್ಕಳಿವುಂಟು",
+    "poet": "Basavanna",
+    "kannadaPoet": "ಬಸವಣ್ಣ",
+    "verse": "ಕಾಲೇ ಕಂಬ, ದೇಹವೇ ದೇಗುಲ\nಶಿರವೇ ಹೊನ್ನ ಕಳಸವಯ್ಯಾ\nಸ್ಥಾವರಕ್ಕಳಿವುಂಟು ಜಂಗಮಕ್ಕಳಿವಿಲ್ಲ\nಕೂಡಲಸಂಗಮದೇವನೊಳು ಬೆರೆತು ಹಾಡೋಣ",
+    "meanings": {
+      "ಸ್ಥಾವರ": "Static/Temple",
+      "ಜಂಗಮ": "Moving/Divine consciousness",
+      "ಅಳಿವಿಲ್ಲ": "Deathless/Eternal"
+    },
+    "description": "The eternal nature of spirituality over material structures.",
+    "category": "Vachana Sahitya"
+  },
+  {
+    "id": "poem-028",
+    "title": "Suryana Udaya",
+    "kannadaTitle": "ಸೂರ್ಯನ ಉದಯ",
+    "poet": "D.S. Karki",
+    "kannadaPoet": "ಡಿ.ಎಸ್. ಕರ್ಕಿ",
+    "verse": "ಬೆಳಕಿನ ಬಾಗಿಲು ತೆರೆಯಿತು ಈಗ\nದಿವ್ಯ ಜ್ಯೋತಿಯ ಹೊಳಪು ಮಿಂಚಿತು\nಹಕ್ಕಿಗಳ ಹಾಡು ಮಧುರವಾಯಿತು\nಜಗತ್ತಿನ ನಿದ್ರೆ ದೂರವಾಯಿತು",
+    "meanings": {
+      "ಬಾಗಿಲು": "Door",
+      "ಹೊಳಪು": "Shine",
+      "ಮಧುರವಾಯಿತು": "Became sweet"
+    },
+    "description": "Celebrating the freshness and hope of a new dawn.",
+    "category": "Nature"
+  },
+  {
+    "id": "poem-029",
+    "title": "Pampa - Banavasi",
+    "kannadaTitle": "ಬನವಾಸಿಯ ದೇಶ",
+    "poet": "Adikavi Pampa",
+    "kannadaPoet": "ಆದಿಕವಿ ಪಂಪ",
+    "verse": "ಆರಂಕುಶವಿಟ್ಟೊಡಂ ನೆನೆಯುವುದೆನ್ನ ಮನಂ ಬನವಾಸಿ ದೇಶಮಂ\nಮರಿದುಂಬಿಯಾಗಿ ಮೇಣ್ ಕೋಗಿಲೆಯಾಗಿ ಹುಟ್ಟುವುದು\nಸೊಗಸಾದ ಈ ನಾಡಿನಲಿ ನೂರು ಜನ್ಮವ ನೆನೆಯುವುದು",
+    "meanings": {
+      "ಆರಂಕುಶ": "A sharp hook for elephants",
+      "ನೆನೆಯುವುದೆನ್ನ": "My mind remembers",
+      "ಮರಿದುಂಬಿಯಾಗಿ": "As a small beetle"
+    },
+    "description": "Classic Old Kannada expression of longing for one's homeland.",
+    "category": "Classical"
+  },
+  {
+    "id": "poem-030",
+    "title": "Chennavira Kanavi - Belagu",
+    "kannadaTitle": "ಬೆಳಗು",
+    "poet": "Chennavira Kanavi",
+    "kannadaPoet": "ಚೆನ್ನವೀರ ಕಣವಿ",
+    "verse": "ಮೂಡಣದ ಬಾಗಿಲಲಿ ಸೂರ್ಯನು ನಕ್ಕ\nಕತ್ತಲೆಯ ಕೋಟೆಯನ್ನು ಪುಡಿಪುಡಿ ಮಾಡಿದ\nಹೂಗಳ ಮುಖದಲಿ ಮಂದಸ್ಮಿತ ತಂದ\nನಮ್ಮೀ ಭೂಮಿಯ ಸ್ವರ್ಗವ ಮಾಡಿದ",
+    "meanings": {
+      "ಮೂಡಣದ": "Eastern",
+      "ಕೋಟೆಯನ್ನು": "Fortress",
+      "ಮಂದಸ್ಮಿತ": "Gentle smile"
+    },
+    "description": "The sunrise as a metaphor for overcoming ignorance.",
+    "category": "Modern"
+  },
+  {
+    "id": "poem-031",
+    "title": "Sarvajna - Sneha",
+    "kannadaTitle": "ಸ್ನೇಹದ ನೆಲೆ",
+    "poet": "Sarvajna",
+    "kannadaPoet": "ಸರ್ವಜ್ಞ",
+    "verse": "ಒಳ್ಳೆಯವರ ಸಂಗವು ಹಾಲೊಳಗಿನ ಸಕ್ಕರೆಯಂತೆ\nಕೆಟ್ಟವರ ಸಂಗವು ಹಾವಿನ ಹಳದಿಯಂತೆ\nಸಜ್ಜನರೊಡನೆ ಸಮಯವ ಕಳೆಯುವುದು ಲೇಸು ಸರ್ವಜ್ಞ",
+    "meanings": {
+      "ಸಂಗವು": "Company",
+      "ಹಳದಿಯಂತೆ": "Like poison/venom",
+      "ಲೇಸು": "Better/Good"
+    },
+    "description": "The impact of the company we keep.",
+    "category": "Tripadi"
+  },
+  {
+    "id": "poem-032",
+    "title": "Vachana - Allama",
+    "kannadaTitle": "ಅರಿವೇ ಗುರು",
+    "poet": "Allama Prabhu",
+    "kannadaPoet": "ಅಲ್ಲಮ ಪ್ರಭು",
+    "verse": "ಅರಿವೇ ಗುರು, ಮರವೇ ದೈವ\nನಮ್ಮ ಅಂತರಂಗದಲಿ ಬೆಳಗುವ ಜ್ಯೋತಿಯೇ ಶಿವೇ\nಬಾಹ್ಯದಲಿ ಅಲೆದರೆ ದಾರಿ ತಪ್ಪುವಿರಿ ನೀವು\nಒಳಗಿನ ಸತ್ಯವನು ಅರಿತು ನಡೆಯಿರಿ ನೀವು",
+    "meanings": {
+      "ಅರಿವೇ": "Awareness/Knowledge",
+      "ದೈವ": "God",
+      "ಅಲೆದರೆ": "If you wander"
+    },
+    "description": "Inner awareness is the ultimate teacher.",
+    "category": "Vachana Sahitya"
+  },
+  {
+    "id": "poem-033",
+    "title": "Mankuthimmana Kagga - Resilience",
+    "kannadaTitle": "ಬದುಕು ಜಟಕಾಬಂಡಿ",
+    "poet": "D. V. Gundappa",
+    "kannadaPoet": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪ (ಡಿವಿಜಿ)",
+    "verse": "ಬದುಕು ಜಟಕಾಬಂಡಿ, ವಿಧಿ ಅದರ ಸಾಹೇಬ\nಕುದುರೆ ನೀನು, ಅವನು ಹೇಳಿದಂತೆ ಓಡಬೇಕು\nಮದುವೆ ಮಸಣಗಳೆರಡರ ಹಾದಿಯಲಿ ಸಾಗಬೇಕು\nಒದಗಿ ಬರುವ ನೋವು ನಲಿವಿನಲಿ ಬೆರೆಯಬೇಕು",
+    "meanings": {
+      "ಜಟಕಾಬಂಡಿ": "Horse cart",
+      "ಮಸಣಗಳೆರಡರ": "Both marriage and graveyard",
+      "ನಲಿವಿನಲಿ": "In joy"
+    },
+    "description": "Life as an unpredictable journey directed by fate.",
+    "category": "Philosophy"
+  },
+  {
+    "id": "poem-034",
+    "title": "Kuvempu - Vishvamanava",
+    "kannadaTitle": "ವಿಶ್ವಮಾನವ ಗೀತೆ",
+    "poet": "Kuvempu",
+    "kannadaPoet": "ಕುವೆಂಪು",
+    "verse": "ಓ ನನ್ನ ಚೇತನವಾಗು ನೀ ಅನಿಕೇತನ\nರೂಪ ರೂಪಗಳನು ಸುಟ್ಟು ಹಾಕಿ ನೀ ಓಡು\nನಾಮ ನಾಮಗಳನು ತುಳಿದು ಹಾಕಿ ನೀ ಸಾಗು\nಜಾತಿ ಮತಗಳ ಕಂದಕವ ಹಾರಿ ನೀ ಬಾನು",
+    "meanings": {
+      "ಅನಿಕೇತನ": "Homeless/Universal",
+      "ತುಳಿದು": "Trampling",
+      "ಬಾನು": "Sky"
+    },
+    "description": "The famous poem calling for universal humanism.",
+    "category": "Philosophy"
+  },
+  {
+    "id": "poem-035",
+    "title": "Bendre - Hakki Harutide",
+    "kannadaTitle": "ಅಕ್ಕಿ ಹಾರುತಿದೆ ನೋಡಿದಿರಾ?",
+    "poet": "D.R. Bendre",
+    "kannadaPoet": "ದ.ರಾ. ಬೇಂದ್ರೆ",
+    "verse": "ಅಕ್ಕಿ ಹಾರುತಿದೆ ನೋಡಿದಿರಾ?\nಕಾಲದ ರೆಕ್ಕೆಯ ಬಿಚ್ಚಿ ಮೆರೆಯತಲಿದೆ\nಸೂರ್ಯ ಚಂದ್ರರ ಕಣ್ಣಿನಲಿ ನೋಡುತಲಿದೆ\nಯುಗ ಯುಗಗಳ ಕಥೆಯನ್ನೇ ಹೇಳುತಲಿದೆ",
+    "meanings": {
+      "ಹಾರುತಿದೆ": "Flying",
+      "ರೆಕ್ಕೆಯ": "Wings",
+      "ಮೆರೆಯತಲಿದೆ": "Displaying/Flaunting"
+    },
+    "description": "Time personified as a bird flying across eras.",
+    "category": "Modern"
+  },
+  {
+    "id": "poem-036",
+    "title": "Sarvajna - Dana",
+    "kannadaTitle": "ದಾನದ ಮಹಿಮೆ",
+    "poet": "Sarvajna",
+    "kannadaPoet": "ಸರ್ವಜ್ಞ",
+    "verse": "ಕೊಟ್ಟಿದ್ದು ತನಗೆ, ಬಚ್ಚಿಟ್ಟಿದ್ದು ಪರರಿಗೆ\nಕೊಟ್ಟಿದ್ದು ಕೆಡದು, ನಡೆಸಿಕೊಡುವುದು ಲೇಸು\nಹಸಿದವನಿಗೆ ಅನ್ನವಿಕ್ಕುವುದು ಪರಮ ಧರ್ಮ ಸರ್ವಜ್ಞ",
+    "meanings": {
+      "ಬಚ್ಚಿಟ್ಟಿದ್ದು": "What is hidden",
+      "ಪರರಿಗೆ": "To others",
+      "ಕೆಡದು": "Wont perish"
+    },
+    "description": "The logic behind charity and sharing.",
+    "category": "Tripadi"
+  },
+  {
+    "id": "poem-037",
+    "title": "Basavanna - Shuddha Mana",
+    "kannadaTitle": "ಮನಶುದ್ಧವಿಲ್ಲದವನ ಭಕ್ತಿ",
+    "poet": "Basavanna",
+    "kannadaPoet": "ಬಸವಣ್ಣ",
+    "verse": "ಮನಶುದ್ಧವಿಲ್ಲದವನ ಭಕ್ತಿಯು\nರುಚಿಯಿಲ್ಲದ ಅಡುಗೆಯಂತೆ\nಒಳಗಿನ ಕೊಳಕನು ತೊಳೆಯದೆ\nಹೊರಗಿನ ಸ್ನಾನವೆಕೆ ಕೂಡಲಸಂಗಮದೇವ?",
+    "meanings": {
+      "ಶುದ್ಧವಿಲ್ಲದವನ": "One without purity",
+      "ಕೊಳಕನು": "Dirt/Impurity",
+      "ಸ್ನಾನವೆಕೆ": "Why the bath?"
+    },
+    "description": "True devotion requires internal purity.",
+    "category": "Vachana Sahitya"
+  },
+  {
+    "id": "poem-038",
+    "title": "H.S. Venkatesha Murthy - Hunnime",
+    "kannadaTitle": "ಹುಣ್ಣಿಮೆ",
+    "poet": "H.S. Venkatesha Murthy",
+    "kannadaPoet": "ಎಚ್.ಎಸ್. ವೆಂಕಟೇಶಮೂರ್ತಿ",
+    "verse": "ಬೆಳ್ಳಿಯ ಬೆಳಕಲಿ ಈ ಭೂಮಿ ಮಿಂದಿದೆ\nಚಂದ್ರನ ನಗುವಲಿ ಈ ರಾತ್ರಿ ಬೆಳಗಿದೆ\nಸಪ್ತ ಸಾಗರಗಳ ಅಲೆಯು ಮಿಡಿದಿದೆ\nನಮ್ಮೀ ಒಲವಿಗೆ ಸಾಕ್ಷಿಯಾಗಿ ನಿಂತಿದೆ",
+    "meanings": {
+      "ಮಿಂದಿದೆ": "Bathed",
+      "ಅಲೆಯು": "Waves",
+      "ಸಾಕ್ಷಿಯಾಗಿ": "As a witness"
+    },
+    "description": "A contemporary poem on the beauty of a full moon night.",
+    "category": "Modern"
+  },
+  {
+    "id": "poem-039",
+    "title": "Gopalakrishna Adiga - Prarthane",
+    "kannadaTitle": "ಪ್ರಾರ್ಥನೆ",
+    "poet": "Gopalakrishna Adiga",
+    "kannadaPoet": "ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ",
+    "verse": "ಹೊಟ್ಟೆಯ ಹಸಿವಿಗೆ ದಾರಿ ತೋರಿಸಪ್ಪ\nಕಣ್ಣಿನ ಬೆಳಕಿಗೆ ಜ್ಯೋತಿ ನೀಡಪ್ಪ\nಮನಸ್ಸಿನ ಗೊಂದಲವ ದೂರ ಮಾಡಪ್ಪ\nಜೀವದ ದಾರಿಗೆ ಶಕ್ತಿ ತುಂಬಪ್ಪ",
+    "meanings": {
+      "ಗೊಂದಲವ": "Confusion",
+      "ಶಕ್ತಿ": "Power/Energy",
+      "ತುಂಬಪ್ಪ": "Fill it"
+    },
+    "description": "A modern prayer for clarity and strength in life.",
+    "category": "Navya"
+  },
+  {
+    "id": "poem-040",
+    "title": "Siddalingaiah - Horatada Haadu",
+    "kannadaTitle": "ಹೋರಾಟದ ಹಾಡು",
+    "poet": "Siddalingaiah",
+    "kannadaPoet": "ಸಿದ್ದಲಿಂಗಯ್ಯ",
+    "verse": "ಬದಲಾವಣೆಯ ಗಾಳಿಯು ಬೀಸುತ್ತಿದೆ ಈಗ\nಶೋಷಿತರ ದನಿಯು ಕೇಳುತ್ತಿದೆ ಈಗ\nಕಟ್ಟಕಡೆಯ ಮನುಷ್ಯನಿಗೆ ನ್ಯಾಯ ಸಿಗಲಿ\nನಮ್ಮ ನಾಡಿನಲ್ಲಿ ಶಾಂತಿ ಬೆಳಗಲಿ",
+    "meanings": {
+      "ಬದಲಾವಣೆಯ": "Of change",
+      "ಶೋಷಿತರ": "Of the oppressed",
+      "ದನಿಯು": "Voice"
+    },
+    "description": "Calling for social justice and peaceful change.",
+    "category": "Dalit Literature"
+  },
+  {
+    "id": "poem-041",
+    "title": "Purandara Dasa - Mana Evva",
+    "kannadaTitle": "ಮನವೆಂಬುದು ಮರ್ಕಟವು",
+    "poet": "Purandara Dasa",
+    "kannadaPoet": "ಪುರಂದರದಾಸ",
+    "verse": "ಮನವೆಂಬುದು ಮರ್ಕಟವು, ಮರ್ಕಟವು\nಅತ್ತಿತ್ತ ಹಾರುತ್ತ ಅಲೆದಾಡುತಲಿರುವುದು\nದೇವನ ಪಾದವ ಹಿಡಿಯಲೊಲ್ಲದು\nಮಾಯೆಯ ಬಲೆಯಲ್ಲಿ ಸಿಕ್ಕಿ ಸಾಯುವುದು",
+    "meanings": {
+      "ಮರ್ಕಟವು": "Monkey",
+      "ಅಲೆದಾಡುತಲಿರುವುದು": "Wandering",
+      "ಬಲೆಯಲ್ಲಿ": "In the net"
+    },
+    "description": "Comparing the human mind to a restless monkey.",
+    "category": "Dasa Sahitya"
+  },
+  {
+    "id": "poem-042",
+    "title": "Kanaka Dasa - Bagilanu Teredu",
+    "kannadaTitle": "ಬಾಗಿಲನು ತೆರೆದು ಸೇವೆಯನು ನೀಡು",
+    "poet": "Kanaka Dasa",
+    "kannadaPoet": "ಕನಕದಾಸ",
+    "verse": "ಬಾಗಿಲನು ತೆರೆದು ಸೇವೆಯನು ನೀಡು ಹರಿಯೇ\nನಾನು ನಿನ್ನವನೆಂದು ತಿಳಿದು ಸಲಹೋ ಹರಿಯೇ\nಲೋಕದ ಮೋಹಕೆ ನಾ ಮರುಳಾದೆ\nನಿನ್ನ ಪಾದದ ಅಲೆಗೆ ನಾ ಮಣಿದವನಾದೆ",
+    "meanings": {
+      "ತೆರೆದು": "Opening",
+      "ಸಲಹೋ": "Protect/Sustain",
+      "ಮರುಳಾದೆ": "Became foolish/tranced"
+    },
+    "description": "A humble prayer for divine connection and protection.",
+    "category": "Dasa Sahitya"
+  },
+  {
+    "id": "poem-043",
+    "title": "Akka Mahadevi - Vachana II",
+    "kannadaTitle": "ಕಾಮನ ಸೋಲಿಸಿ",
+    "poet": "Akka Mahadevi",
+    "kannadaPoet": "ಅಕ್ಕ ಮಹಾದೇವಿ",
+    "verse": "ಕಾಮನ ಸೋಲಿಸಿ, ಮನವ ಗೆದ್ದವಳು ನಾನು\nಜಗತ್ತಿನ ಮಾಯೆಯ ಹರಿದು ಹಾಕಿದವಳು ನಾನು\nಅರಿವಿನ ಬೆಳಕಲ್ಲಿ ಬೆತ್ತಲೆಯಾಗಿ ನಿಂತವಳು ನಾನು\nಮಲ್ಲಿಕಾರ್ಜುನನ ಹೆಸರ ಹೇಳುವವಳು ನಾನು",
+    "meanings": {
+      "ಸೋಲಿಸಿ": "Defeating",
+      "ಮಾಯೆಯ": "Illusion",
+      "ಬೆತ್ತಲೆಯಾಗಿ": "Nakedly/Truthfully"
+    },
+    "description": "Transcending desire and material attachment.",
+    "category": "Vachana Sahitya"
+  },
+  {
+    "id": "poem-044",
+    "title": "DVG - Samarpane",
+    "kannadaTitle": "ಸಮರ್ಪಣೆ",
+    "poet": "D. V. Gundappa",
+    "kannadaPoet": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪ (ಡಿವಿಜಿ)",
+    "verse": "ಮಾಡುವ ಕೆಲಸವ ಮನವಿಟ್ಟು ಮಾಡು\nಆಶೆ ಇಲ್ಲದೆ ಫಲವ ನಂಬು\nನೋವು ಬಂದಾಗ ಧೃತಿಗೆಡಬೇಡ\nಎಲ್ಲವನ್ನೂ ಆ ದೇವನಿಗೆ ಬಿಟ್ಟುಬಿಡು",
+    "meanings": {
+      "ಸಮರ್ಪಣೆ": "Dedicating",
+      "ಧೃತಿಗೆಡಬೇಡ": "Do not lose heart",
+      "ಬಿಟ್ಟುಬಿಡು": "Leave it/Surrender"
+    },
+    "description": "The principle of selfless action and surrender.",
+    "category": "Philosophy"
+  },
+  {
+    "id": "poem-045",
+    "title": "M. Govinda Pai - Shanti",
+    "kannadaTitle": "ಶಾಂತಿ ಪಥ",
+    "poet": "M. Govinda Pai",
+    "kannadaPoet": "ಎಂ. ಗೋವಿಂದ ಪೈ",
+    "verse": "ಅಹಿಂಸೆಯ ದಾರಿಯಲಿ ಸಾಗೋಣ ನಾವು\nಗಾಂಧೀಜಿಯ ಕನಸನು ನನಸು ಮಾಡೋಣ ನಾವು\nದ್ವೇಷದ ಬೆಂಕಿಯನ್ನು ನಂದಿಸೋಣ ನಾವು\nಪ್ರೀತಿಯ ಮಳೆಯನು ಸುರಿಸೋಣ ನಾವು",
+    "meanings": {
+      "ಅಹಿಂಸೆಯ": "Non-violence",
+      "ನನಸು": "True/Reality",
+      "ನಂದಿಸೋಣ": "Extinguish"
+    },
+    "description": "Inspiration from Gandhian ideals and non-violence.",
+    "category": "Historical"
+  },
+  {
+    "id": "poem-046",
+    "title": "Laxminarayan Bhatta - Thaye",
+    "kannadaTitle": "ತಾಯೆ ಬಾರ ಮೊಗವ ತೋರ",
+    "poet": "N.S. Lakshminarayana Bhatta",
+    "kannadaPoet": "ಎನ್.ಎಸ್. ಲಕ್ಷ್ಮೀನಾರಾಯಣ ಭಟ್ಟ",
+    "verse": "ತಾಯೆ ಬಾರ ಮೊಗವ ತೋರ ಕನ್ನಡಮ್ಮನೇ\nನಿನ್ನ ಹರಸುವ ಸತ್ಯ ದನಿಯ ನೀಡಮ್ಮನೇ\nಮಲೆನಾಡ ಮಡಿಲಲಿ ನಗುತಲಿ ಬಾ ನೀ\nಕರುನಾಡ ಕೀರ್ತಿಯ ಎತ್ತಿ ಹಿಡಿ ನೀ",
+    "meanings": {
+      "ಮೊಗವ": "Face",
+      "ತೋರ": "Show",
+      "ಕೀರ್ತಿಯ": "Fame/Glory"
+    },
+    "description": "A heart-felt invocation to Mother Kannada.",
+    "category": "Patriotic"
+  },
+  {
+    "id": "poem-047",
+    "title": "Allama Prabhu - Guheshwara",
+    "kannadaTitle": "ಗುಹೇಶ್ವರನ ಅರಿವು",
+    "poet": "Allama Prabhu",
+    "kannadaPoet": "ಅಲ್ಲಮ ಪ್ರಭು",
+    "verse": "ಆಕಾಶದೊಳಗಿನ ಆಕಾಶವ ನೋಡಣ್ಣ\nನಿನ್ನೊಳಗಿನ ನೀನನ್ನ ಹುಡುಕಣ್ಣ\nಆಚೆ ಈಚೆ ಅಲೆದಾಡಬೇಡ\nಗುಹೇಶ್ವರನು ನಿನ್ನ ಹೃದಯದಲಿರುವನು",
+    "meanings": {
+      "ಆಕಾಶದೊಳಗಿನ": "Inside the sky/void",
+      "ಆಚೆ ಈಚೆ": "Here and there",
+      "ಹೃದಯದಲಿರುವನು": "Lives in the heart"
+    },
+    "description": "The omnipresence of the divine within oneself.",
+    "category": "Vachana Sahitya"
+  },
+  {
+    "id": "poem-048",
+    "title": "K.S. Narasimhaswamy - Deepavali",
+    "kannadaTitle": "ದೀಪಾವಳಿಯ ಹಬ್ಬ",
+    "poet": "K.S. Narasimhaswamy",
+    "kannadaPoet": "ಕೆ.ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿ",
+    "verse": "ಹಣತೆಗಳು ಮನೆಯನು ಬೆಳಗುತಲಿವೆ\nಪಟಾಕಿಗಳು ಸದ್ದನು ಮಾಡುತಲಿವೆ\nಮಕ್ಕಳ ಮುಖದಲಿ ನಗುವು ಮೂಡಿದೆ\nಖುಷಿಯ ಹಬ್ಬದ ಸಂಭ್ರಮ ತಂದಿದೆ",
+    "meanings": {
+      "ಸಂಭ್ರಮ": "Celebration",
+      "ಮಿಂದಿದೆ": "Bathed",
+      "ಪಟಾಕಿಗಳು": "Firecrackers"
+    },
+    "description": "Describing the joy and light of Deepavali.",
+    "category": "Modern"
+  },
+  {
+    "id": "poem-049",
+    "title": "Chennavira Kanavi - Maitri",
+    "kannadaTitle": "ಮೈತ್ರಿ",
+    "poet": "Chennavira Kanavi",
+    "kannadaPoet": "ಚೆನ್ನವೀರ ಕಣವಿ",
+    "verse": "ಕೈ ಕೈ ಹಿಡಿದು ನಡೆಯೋಣ ಬನ್ನಿ\nಪ್ರೀತಿಯ ಸೇತುವೆ ಕಟ್ಟುತ ಬನ್ನಿ\nಯಾರೂ ಪರಕೀಯರಲ್ಲ ಇಲ್ಲಿ\nಎಲ್ಲರೂ ನಮ್ಮವರೇ ಎಂದು ತಿಳಿಯಿರಿ ಇಲ್ಲಿ",
+    "meanings": {
+      "ಸೇತುವೆ": "Bridge",
+      "ಪರಕೀಯರಲ್ಲ": "Not strangers/aliens",
+      "ತಿಳಿಯಿರಿ": "Understand/Know"
+    },
+    "description": "A poem calling for friendship and inclusivity.",
+    "category": "Modern"
+  },
+  {
+    "id": "poem-050",
+    "title": "Bendre - Karulina Kare",
+    "kannadaTitle": "ಕರುಳಿನ ಕರೆ",
+    "poet": "D.R. Bendre",
+    "kannadaPoet": "ದ.ರಾ. ಬೇಂದ್ರೆ",
+    "verse": "ತಂದೆ ತಾಯಿಯ ಪ್ರೀತಿಯು ಅಂತ್ಯವಿಲ್ಲದ್ದು\nಬಾಲ್ಯದ ನೆನಪುಗಳು ದೂರವಾಗದು\nರಕ್ತದ ಸಂಬಂಧವನು ಮರೆಯಬೇಡ\nಕರುಳಿನ ಕರೆಯನು ಅಲಕ್ಷಿಸಬೇಡ",
+    "meanings": {
+      "ಅಂತ್ಯವಿಲ್ಲದ್ದು": "Endless",
+      "ಅಲಕ್ಷಿಸಬೇಡ": "Do not ignore",
+      "ನೆನಪುಗಳು": "Memories"
+    },
+    "description": "On the eternal and sensitive nature of family bonds.",
+    "category": "Modern"
+  },
+  {
+    "id": "poem-051",
+    "title": "Vachana - Mahadevi",
+    "kannadaTitle": "ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನದೇವ",
+    "poet": "Akka Mahadevi",
+    "kannadaPoet": "ಅಕ್ಕ ಮಹಾದೇವಿ",
+    "verse": "ಎನ್ನ ಮನವ ನೀನು ಬೆಳಗಿಸು\nನನ್ನ ದಾರಿಯ ನೀನು ಹರಸು\nನಿನ್ನಲ್ಲೇ ನಾ ವಿಲೀನವಾಗುವೆ\nಓ ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನದೇವ",
+    "meanings": {
+      "ವಿಲೀನವಾಗುವೆ": "Will merge",
+      "ಹರಸು": "Bless",
+      "ಬೆಳಗಿಸು": "Enlighten"
+    },
+    "description": "A short and intense prayer for spiritual union.",
+    "category": "Vachana Sahitya"
+  }
+]
